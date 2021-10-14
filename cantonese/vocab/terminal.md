@@ -10,7 +10,16 @@
 ### Vim
 
 - 頂端: Top (regarding the scroll, in bottom right)
+- 底端：Bottom (regarding the scroll, in bottom right)
 - 全部：All (regarding the whole document is visible, in bottom right)
+- 插入：Insert (as in insert mode)
+
+### ls
+
+- 選項: Option
+- 指定: Specify
+- 目前: Current, at present
+- 訊息: Message
 
 ## Jyutping
 
@@ -24,4 +33,13 @@
 ### Vim
 
 - 頂端 - ding2dyun1
+- 底端 - dai2dyun1
 - 全部 - cyun4bou6
+- 插入 - caap3jap6
+
+### ls
+
+- 選項 - syun2hong6
+- 指定 - zi2ding6
+- 目前 - muk6cin4
+- 訊息 - seon3sik1
