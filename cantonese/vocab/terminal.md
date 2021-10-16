@@ -1,5 +1,10 @@
 ## Meaning
 
+### General
+
+- 指令：Command (e.g. command not found)
+- 指派: To assign
+
 ### Git
 
 - 位於分支：At branch （for git）
@@ -22,6 +27,11 @@
 - 訊息: Message
 
 ## Jyutping
+
+### General
+
+- 指令 - zi2ling6
+- 指派 - zi2paai3
 
 ### Git
 

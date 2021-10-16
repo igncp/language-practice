@@ -24,5 +24,5 @@
 - 移民 - ji4man4
 - 討論區 - tou2leon6keoi1
 - 護照 - wu6ziu3
-- 聊盟 - liu4mang4
+- 聯盟 - lyun4mang4
 - 可恥 - ho2ci2

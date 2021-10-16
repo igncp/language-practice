@@ -10,6 +10,6 @@ if [ -z "$FILE_NAME" ]; then
 fi
 
 sed '/^-[^a-z:：]*[:：]/s|[:：].*||g' "$FILE_NAME" | \
-  sed '/^-[^a-z:：]* [-] /s| [-].*||g' > /tmp/result.md
+  sed '/^-[^a-z:：]* [-] /s| [-].*||g' > /tmp/language_practice.txt
 
-echo "/tmp/result.md created"
+echo "/tmp/language_practice.txt created"

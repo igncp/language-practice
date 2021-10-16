@@ -82,3 +82,79 @@
 - 抱擁 - pou5jung2
 - 似是 - ci5si6
 - 造我夢 - zou6ngo5mung6
+
+## 2/5
+
+```
+隨感覺夢遊 總沒盡頭
+彷彷彿彿 天地那麼自由
+其實喜愛夢遊 清醒太多詛咒
+飄飄忽忽的空間 我至覺得真正擁有
+ 
+隨情緒發展
+熱鬧之中卻心未在焉
+喃喃自語 靈感飛到半天
+坐著汽車 似飛越稻田
+這樣這樣太悶
+情緒卻那樣那樣纏綿
+```
+
+## Meaning
+
+- 隨：Follow
+- 感覺：Feel
+- 夢遊：Sleepwalking
+- 總沒：Completely not
+- 盡頭：The end
+- 彷彷：To imitate
+- 彿彿：Buddha
+- 天地：The world
+- 那麼：So
+- 自由：Free
+- 其實：Actually
+- 喜愛：To really like
+- 清醒：Wide awake
+- 詛咒：To curse
+- 飄飄忽忽：Erratic
+- 空間：Space
+- 真正：Really
+- 擁有：To have
+- 情緒：Emotions，mood
+- 發展：To develop
+- 熱鬧：Lively
+- 未在焉：Not here
+- 喃喃：To mumble
+- 自語：To self-talk
+- 靈感：Inspiration
+- 似飛越：Like flying over
+- 稻田：Crop fields
+
+## Vocabulary
+
+- 隨 - ceoi4
+- 感覺 - gam2gok3
+- 夢遊 - mung6jau
+- 總沒 - zung2mut6
+- 盡頭 - zeon6tau4
+- 彷彷 - fong2fong2
+- 彿彿 - fat1fat1
+- 天地 - tin1dei6
+- 那麼 - naa5mo1
+- 自由 - zi6jau4
+- 其實 - kei4sat6
+- 喜愛 - hei2oi3
+- 清醒 - cing1sing2
+- 詛咒 - zo3zau3
+- 飄飄忽忽 - piu1piu1fat1fat1
+- 空間 - hung1gaan1
+- 真正 - zan1zing3
+- 擁有 - jung2jau5
+- 情緒 - cing4seoi5
+- 發展 - faat3zin2
+- 熱鬧 - jit6naau6
+- 未在焉 - mei6zoi6jin1
+- 喃喃 - naam4naam4
+- 自語 - zi6jyu5
+- 靈感 - ling4gam2
+- 似飛越 - ci5fei1jyut6
+- 稻田 - dou6tin4
