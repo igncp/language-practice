@@ -1,11 +1,11 @@
 - https://www.youtube.com/watch?v=V5-rorX6PXk&t=25s
 - https://lyricstranslate.com/en/faye-wong-%E5%A4%A2%E9%81%8A-lyrics.html
-- [ ] Completed
+- [x] Completed
 - Continues down
 
 - 夢遊: Sleepwalking
 
-## 1/5
+## 1/3
 
 ```
 望著他雙眼 想著別人
@@ -20,7 +20,7 @@
 而我有我造我夢
 ```
 
-### Vocabulary
+### 翻譯
 
 - 望著：Looking
 - 雙眼：Eyes, pair of eyes
@@ -50,7 +50,7 @@
 - 似是 : Seems to be
 - 造我夢 : Make my dream
 
-### Jyutping
+### 粵拼
 
 - 望著 - mong6zyu3
 - 雙眼 - soeng1ngaan5
@@ -83,7 +83,7 @@
 - 似是 - ci5si6
 - 造我夢 - zou6ngo5mung6
 
-## 2/5
+## 2/3
 
 ```
 隨感覺夢遊 總沒盡頭
@@ -99,7 +99,7 @@
 情緒卻那樣那樣纏綿
 ```
 
-## Meaning
+### 翻譯
 
 - 隨：Follow
 - 感覺：Feel
@@ -129,7 +129,7 @@
 - 似飛越：Like flying over
 - 稻田：Crop fields
 
-## Vocabulary
+### 粵拼
 
 - 隨 - ceoi4
 - 感覺 - gam2gok3
@@ -158,3 +158,30 @@
 - 靈感 - ling4gam2
 - 似飛越 - ci5fei1jyut6
 - 稻田 - dou6tin4
+
+## 3/3
+
+```
+喜愛夢遊
+比天地自由
+只有夢遊
+找不到盡頭
+需要夢遊
+比天地自由
+准我夢遊
+找不到盡頭
+```
+
+### 翻譯
+
+- 比：Comparison clause, "noun1 + 比 + noun2 + adj" = "noun1 is more adj than noun2": https://resources.allsetlearning.com/chinese/grammar/Basic_comparisons_with_%22bi%22
+- 找不到：Can't find
+- 需要：Must
+- 進：To allow，to grant
+
+### 粵拼
+
+- 比 - bei6
+- 找不到 - zaau2bat1dou3
+- 需要 - seoi1jiu3
+- 進 - zeon3
