@@ -1,6 +1,6 @@
 - https://www.youtube.com/watch?v=40RaRER4IaI
 - 囍帖街 - hei2tip3gaai1
-- [ ] Completed
+- [x] 完全
 
 ## 1/5
 
@@ -126,6 +126,50 @@
 等不到下一代 是嗎？
 ```
 
+### 翻譯
+
+- 當初：At the beginning
+- 金箔：Gold leaf
+- 裱起：Framed
+- 婚紗照：Wedding photos (literally wedding dress photos)
+- 那道牆：That wall
+- 一切：All
+- 美麗：Beautiful
+- 舊：Old
+- 年華：Years
+- 同步：To synchronize， synchronously
+- 拆下：To remove
+- 小餐枱：Small dining table
+- 沙發：Sofa
+- 雪櫃：Refrigerator
+- 温馨：Warm
+- 光境：Light
+- 借出：To lend
+- 期拿回：To take back
+- 下一代：Next generation
+
+### 粵拼
+
+- 當初 - dong1co1
+- 金箔 - gam1bok6
+- 裱起 - biu2hei2
+- 婚紗照 - fan1saa1ziu3
+- 那道牆 - naa5dou6coeng4
+- 一切 - jat1cit3
+- 美麗 - mei5lai6
+- 舊 - gau6
+- 年華 - nin4waa4
+- 同步 - tung4bou6
+- 拆下 - caak3haa6
+- 小餐枱 - siu2caan1toi4
+- 沙發 - saa1faat3
+- 雪櫃 - syut3gwai6
+- 温馨 - wan1hing1
+- 光境 - gwong1ging2
+- 借出 - ze3ceot1
+- 期拿回 - kei4naa4wui4
+- 下一代 - haa6jat1doi6
+
 ## 4/5
 
 ```
@@ -140,6 +184,46 @@
 又再惋惜有用嗎？
 ```
 
+### 翻譯
+
+- 砌過的沙：Erected sand
+- 回憶：Memories
+- 堡壘：Fortress， fortification
+- 剎那：Moment， instant
+- 墳起：Grave
+- 荒土：Wasteland
+- 註定：Doomed (also in a good sense)
+- 瀟灑：Chic
+- 階磚：Step brick, also "Diamonds" in a cards game
+- 拒絕：To refuse
+- 磨蝕：Abrasion
+- 窗花：Special decoration for windows, also the iron bars that protect windows
+- 幽禁：Confinement， imprisoment
+- 感情：Feelings
+- 又再：Again
+- 惋惜：To regret
+- 有用：Useful
+
+### 粵拼
+
+- 砌過的沙 - cai3gwo3dik1saa1
+- 回憶 - wui4jik1
+- 堡壘 - bou2leoi5
+- 剎那 - saat3naa5
+- 墳起 - fan4hei2
+- 荒土 - fong1tou2
+- 註定 - zyu3ding6
+- 瀟灑 - siu1saa2
+- 階磚 - gaai1zyun1
+- 拒絕 - keoi5zyut6
+- 磨蝕 - mo4sik6
+- 窗花 - coeng1faa1
+- 幽禁 - jau1gam3
+- 感情 - gam2cing4
+- 又再 - jau6zoi3
+- 惋惜 - jyun2sik1
+- 有用 - jau5jung6
+
 ## 5/5
 
 ```
@@ -148,3 +232,21 @@
 終須會時辰到 別怕
 請放下手裡那鎖匙 好嗎？
 ```
+
+### 翻譯
+
+- 終：Finally
+- 時辰：The time
+- 別怕：Don't be afraid
+- 放下：To lay down
+- 手裡：Inside the hand
+- 鎖匙：A key
+
+### 粵拼
+
+- 終 - zung1
+- 時辰 - si4san4
+- 別怕 - bit6paa3
+- 放下 - fong3haa6
+- 手裡 - sau2leoi5
+- 鎖匙 - so2si4

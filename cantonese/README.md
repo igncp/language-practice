@@ -1,5 +1,6 @@
 - Google Translate: https://translate.google.com/?hl=en&tab=TT
 - Parsing: https://www.cantonesetools.org/en/cantonese-to-jyutping
+- Dictionary: http://www.cantonese.sheik.co.uk/dictionary/words/
 - Browser extension (uses Yale): https://chrome.google.com/webstore/detail/cantonese-popup-dictionar/pjnbhojkojmibobcpfgihhnohboldhip?hl=en
 - IME: [rime-cantonese](https://github.com/rime/rime-cantonese)
 

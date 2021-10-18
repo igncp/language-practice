@@ -1,7 +1,6 @@
 - https://www.youtube.com/watch?v=V5-rorX6PXk&t=25s
 - https://lyricstranslate.com/en/faye-wong-%E5%A4%A2%E9%81%8A-lyrics.html
-- [x] Completed
-- Continues down
+- [x] 完全
 
 - 夢遊: Sleepwalking
 
