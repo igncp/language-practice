@@ -1,5 +1,6 @@
 - https://www.youtube.com/watch?v=f6t3mj6wmtI
-- [ ] 完全
+- 土瓜灣情歌 - tou2gwaa1waan4cing4go1
+- [x] 完全
 
 ## 1/4
 
@@ -93,6 +94,42 @@
 要到絕望才望見希望在人間
 ```
 
+### 翻譯
+
+- 躺：To lie down
+- 朦朧：Dimmed
+- 收音機：Radio
+- 射出：To shoot out
+- 導彈：A missile
+- 地球：The earth
+- 另一邊：The other side
+- 炸爛：To blow up
+- 不夠：Not enough
+- 虛幻：Illusory
+- 現實：Reality
+- 最爛：Worst
+- 絕望：Despair
+- 望見：To see
+- 人間：The world, from the humanity perspective
+
+### 粵拼
+
+- 躺 - tong2
+- 朦朧 - mung4lung4
+- 收音機 - sau1jam1gei1
+- 射出 - se6ceot1
+- 導彈 - dou6daan2
+- 地球 - dei6kau4
+- 另一邊 - ling6jat1bin1
+- 炸爛 - zaa3laan6
+- 不夠 - bat1gau3
+- 虛幻 - heoi1waan6
+- 現實 - jin6sat6
+- 最爛 - zeoi3laan6
+- 絕望 - zyut6mong6
+- 望見 - mong6gin3
+- 人間 - jan4gaan1
+
 ## 4/4
 
 ```
@@ -100,3 +137,17 @@
 有不喜歡的工要返
 你會否便記起曾笑得這麼燦爛
 ```
+
+### 翻譯
+
+- 喜歡：To like
+- 記起：To recall， to remember
+- 笑得：To laugh， to smile
+- 燦爛：Brilliant
+
+### 粵拼
+
+- 喜歡 - hei2fun1
+- 記起 - gei3hei2
+- 笑得 - siu3dak1
+- 燦爛 - caan3laan6
