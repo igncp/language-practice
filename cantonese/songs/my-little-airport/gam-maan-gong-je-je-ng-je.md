@@ -1,7 +1,7 @@
 - https://www.youtube.com/watch?v=5DJGlJQCkHg
 - 今晚講嘢夜唔夜 - gam1maan1gong2je5je6ng4je6
 - 有啲翻譯在裡面視頻
-- [ ] 完全
+- [x] 完全
 
 ## 1/5
 
@@ -111,6 +111,26 @@ n: 我又點會唔明白你嘅內心
 又估唔到你真係會咁易當真
 ```
 
+### 翻譯
+
+- 何嘗：How to (rethorical question)
+- 想搵：Want to call
+- 訓一訓：One night stand
+- 扮：To simulate
+- 勾引：To seduce
+- 估：To estimate
+- 當真：To take something seriously
+
+### 粵拼
+
+- 何嘗 - ho4soeng4
+- 想搵 - soeng2wan2
+- 訓一訓 - fan3jat1fan3
+- 扮 - baan6
+- 勾引 - ngau1jan5
+- 估 - gu2
+- 當真 - dong1zan1
+
 ## 5/5
 
 ```
@@ -120,3 +140,13 @@ n: 我又點會唔明白你嘅內心
 再傾返陣先至好扯
 望你千萬不要太早扯
 ```
+
+### 翻譯
+
+- 扯：To leave (slang in canto), to chat, to erect
+- 千萬：Ten million， many
+
+### 粵拼
+
+- 扯 - ce2
+- 千萬 - cin1maan6

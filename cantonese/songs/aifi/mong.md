@@ -1,7 +1,7 @@
 - https://www.youtube.com/watch?v=_lkB5qBWjLM
 - 妄：Arrogant
 - 妄 - mong5
-- [ ] 完成
+- [x] 完成
 
 ## 1/5
 
@@ -149,6 +149,15 @@ Don't wanna leave keep you in the dream
 - 埋藏：Buried
 - 眼眶：Eye sockets
 - 天命：Destiny， fate
+- 怪你：To blame you
+- 自私：Selfish
+- 幻覺：Hallucinations
+- 漸：Gradually
+- 擴散：Diffuse
+- 記不起：Can't remember
+- 世界：The world
+- 結尾：End
+- 靜靜：Quietly
 
 ### 粵拼
 
@@ -159,6 +168,15 @@ Don't wanna leave keep you in the dream
 - 埋藏 - maai4cong4
 - 眼眶 - ngaan5hong1
 - 天命 - tin1ming6
+- 怪你 - gwaai3nei5
+- 自私 - zi6si1
+- 幻覺 - waan6gok3
+- 漸 - zim6
+- 擴散 - kong3saan3
+- 記不起 - gei3bat1hei2
+- 世界 - sai3gaai3
+- 結尾 - git3mei5
+- 靜靜 - zing6zing6
 
 ## 5/5
 
@@ -168,3 +186,41 @@ Don't wanna leave keep you in the dream
 秋雨過你已遠去太乏味　停留浮塵原本不應該
 到最後永遠錯失都銘記　由我靜靜地步向你
 ```
+
+### 翻譯
+
+- 陌生：Strangeness
+- 只怕：Just fear
+- 厭棄：To dislike
+- 為何：Why
+- 不敢：To not dare
+- 悶幻化：Dreamy
+- 錯愛：Wrong love
+- 贈你：For you
+- 秋雨：Autumn rain
+- 乏味：Tedius
+- 停留：To stay
+- 浮塵：Floating dust
+- 原本：Original
+- 錯失：Missed
+- 銘記：To bear in mind
+- 步向：To step towards
+
+### 粵拼
+
+- 陌生 - mak6saang1
+- 只怕 - zi2paa3
+- 厭棄 - jim3hei3
+- 為何 - wai4ho4
+- 不敢 - bat1gam2
+- 悶幻化 - mun6waan6faa3
+- 錯愛 - co3oi3
+- 贈你 - zang6nei5
+- 秋雨 - cau1jyu5
+- 乏味 - fat6mei6
+- 停留 - ting4lau4
+- 浮塵 - fau4can4
+- 原本 - jyun4bun2
+- 錯失 - co3sat1
+- 銘記 - ming4gei3
+- 步向 - bou6hoeng3
