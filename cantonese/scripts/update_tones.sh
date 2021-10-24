@@ -2,7 +2,7 @@
 
 set -e
 
-# This updates the tones from the IME syntax to numbers
+# 呢個指令修改聲調from the IME syntax to 數字
 # https://github.com/rime/rime-cantonese
 
 find . -type f | ag '(texts|vocab|sentences|songs)' | while read FILE_NAME; do
@@ -14,4 +14,4 @@ find . -type f | ag '(texts|vocab|sentences|songs)' | while read FILE_NAME; do
   sed -i '/^-[^a-z:：]* [-] /s|x|2|g' "$FILE_NAME"
 done
 
-echo "Finished correctly"
+echo "正確完成"
