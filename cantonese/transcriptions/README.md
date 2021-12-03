@@ -3,7 +3,6 @@
 ### 預告片
 
 - https://www.youtube.com/watch?v=QhIffSvF5BQ (簡體字)
-- https://www.youtube.com/watch?v=gCUHRHS1tSE
 - https://www.youtube.com/watch?v=QA7-zdb1FUM
 - https://www.youtube.com/watch?v=cfGxoeM3WTE
 - https://www.youtube.com/watch?v=MeXKewVM-h0
