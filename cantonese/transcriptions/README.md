@@ -1,5 +1,7 @@
 ## 想法
 
+- HKMDB: https://hkmdb.com/
+
 ### 預告片
 
 - https://www.youtube.com/watch?v=QhIffSvF5BQ (簡體字)
