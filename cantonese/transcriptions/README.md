@@ -16,3 +16,7 @@
 - https://www.timeout.com/hong-kong/film/best-hong-kong-movies
 - https://www.youtube.com/watch?v=AX434mJKRxE
 - https://www.youtube.com/watch?v=d4Yry1dCMqo (日語)
+- https://www.youtube.com/watch?v=3XGPoO7czhI （粵語）
+- https://www.youtube.com/watch?v=C-zXm-GgmBM （日本-粵語音和字幕）
+- https://www.youtube.com/watch?v=qSW95b7_z-Y Dune - （英語音-粵語字幕）
+- https://www.youtube.com/watch?v=AztkDzpLnPU (FFVII重製版-中文字幕)
