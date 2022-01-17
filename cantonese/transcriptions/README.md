@@ -22,3 +22,4 @@
 - https://www.youtube.com/watch?v=AztkDzpLnPU (FFVII重製版-中文字幕)
 - https://www.youtube.com/c/GoldenSceneHK/videos - 預告片視頻列表
 - https://www.youtube.com/watch?v=_jGELYt5d4c - 廣東話講笑短片
+- https://www.youtube.com/watch?v=UIny59vLA9U - 廣東話
