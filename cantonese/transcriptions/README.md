@@ -23,3 +23,11 @@
 - https://www.youtube.com/c/GoldenSceneHK/videos - 預告片視頻列表
 - https://www.youtube.com/watch?v=_jGELYt5d4c - 廣東話講笑短片
 - https://www.youtube.com/watch?v=UIny59vLA9U - 廣東話
+
+### 歌視頻
+
+- https://www.youtube.com/watch?v=mW2-3T6vbyk （廣東話）
+
+### 其他
+
+- https://www.youtube.com/watch?v=gtAl-b32k-4
