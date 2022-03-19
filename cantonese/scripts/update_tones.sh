@@ -14,13 +14,4 @@ find . -type f | ag '(texts|vocab|sentences|songs)' | while read FILE_NAME; do
   sed -i '/^-[^a-z:：]* [-] /s|x|2|g' "$FILE_NAME"
 done
 
-find . -type f | ag '(transcriptions)' | while read FILE_NAME; do
-  sed -i '/^    - /s|vv|4|g' "$FILE_NAME"
-  sed -i '/^    - /s|v|1|g' "$FILE_NAME"
-  sed -i '/^    - /s|qq|6|g' "$FILE_NAME"
-  sed -i '/^    - /s|q|3|g' "$FILE_NAME"
-  sed -i '/^    - /s|xx|5|g' "$FILE_NAME"
-  sed -i '/^    - /s|x|2|g' "$FILE_NAME"
-done
-
 echo "正確完成"
