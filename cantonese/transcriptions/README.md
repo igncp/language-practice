@@ -1,6 +1,7 @@
 ## 想法
 
 - HKMDB: https://hkmdb.com/
+- Some of these videos are in Mandarin or English, but the texts are written using a Cantonese IME. Also some texts use simplified chinese.
 
 ### 預告片
 
