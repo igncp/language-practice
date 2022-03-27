@@ -4,7 +4,12 @@
 - Browser extension (uses Yale): https://chrome.google.com/webstore/detail/cantonese-popup-dictionar/pjnbhojkojmibobcpfgihhnohboldhip?hl=en
 - IME: [rime-cantonese](https://github.com/rime/rime-cantonese)
 - Questions (general Chinese): https://chinese.stackexchange.com/questions
-- Cantonese grammar: https://cantolounge.com/cantonese-grammar-series/
+
+## Cantonese Specific Grammar
+
+- Cantolounge: https://cantolounge.com/cantonese-grammar-series/
+- Other 1: http://ilovelanguages.org/cantonese.php
+- CUHK: https://www.cuhk.edu.hk/lin/cbrc/CantoneseGrammar/multimedia.htm
 
 - Change locale: https://wiki.archlinux.org/title/locale
     - `sudo vim /etc/locale.gen`
